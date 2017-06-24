@@ -6,8 +6,8 @@
 class COauth
 {
 	private $bitrix24 = "https://b24-n593547d544ed3.bitrix24.ru";
-	private $client_id = "app.561224aeea22b5.32892894";
-	private $client_secret = "571121d1774710cde4620efe4ba0d76b";
+	private $client_id = "app.**************.********";
+	private $client_secret = "********************************";
 
 	private $scope = "crm,user";
 
